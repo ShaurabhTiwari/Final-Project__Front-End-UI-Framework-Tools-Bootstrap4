@@ -8,3 +8,9 @@ This project also made use familiar with some libraries like jQuery, Popper etc.
 2. Bootstrap 4
 3. jQuery
 4. Bootstrap-Social
+
+# --------------------------------------
+
+Here is the link of the live website : https://shaurabhtiwari.github.io/Final-Project__Front-End-UI-Framework-Tools-Bootstrap4/
+
+Please Note that since I am using github for hosting this website, dynamic functionalities are unavailable.
